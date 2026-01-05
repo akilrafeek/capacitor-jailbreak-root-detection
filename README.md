@@ -1,11 +1,12 @@
-# @meedika/capacitor-jailbreak-root-detection
+# @akilrafeek/capacitor-jailbreak-root-detection
 
 This is a Capacitor 6 Jailbreak Root detection plugin.
+updated rootbeer library to support 16kb page size
 
 ## Install
 
 ```bash
-npm install @meedika/capacitor-jailbreak-root-detection
+npm install @akilrafeek/capacitor-jailbreak-root-detection
 npx cap sync
 ```
 

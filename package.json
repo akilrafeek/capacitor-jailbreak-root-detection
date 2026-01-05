@@ -16,7 +16,7 @@
     "url": "git+https://github.com/mauri-cg/capacitor-jailbreak-root-detection.git"
   },
   "license": "MIT",
-  "author": "Meedika",
+  "author": "Akil Rafeek",
   "type": "module",
   "main": "dist/plugin.cjs.js",
   "types": "dist/esm/index.d.ts",

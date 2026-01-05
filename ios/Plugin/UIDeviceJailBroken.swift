@@ -11,7 +11,7 @@ import UIKit
 
 extension UIDevice {
     var isSimulator: Bool {
-        return TARGET_OS_SIMULATOR != 0
+        return ProcessInfo.processInfo.environment["SIMULATOR_DEVICE_NAME"] != nil
     }
 
     var isDebuggedMode: Bool {
