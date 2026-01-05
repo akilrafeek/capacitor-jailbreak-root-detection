@@ -1,6 +1,6 @@
 {
   "name": "@akilrafeek/capacitor-jailbreak-root-detection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Jailbreak Root detection plugin for capacitor.",
   "keywords": [
     "capacitor",
